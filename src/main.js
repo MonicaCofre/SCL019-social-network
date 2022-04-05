@@ -3,7 +3,7 @@
 //myFunction();
 
 
-import { initRouter } from '../lib/routes.js';
+import { initRouter } from './lib/routes.js';
 
 //---------------init será la función que llame a initRouter apenas cargue el sitio-----
 const init = () => {
